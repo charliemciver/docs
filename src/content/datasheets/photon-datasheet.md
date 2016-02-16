@@ -92,6 +92,7 @@ The Photon has ton of capability in a small footprint, with analog, digital and 
 | Digital | 18 | I/O | FT/3V3 |
 | Analog (ADC) | 8 | I | 3V3 |
 | Analog (DAC) | 2 | O | 3V3 |
+| UART | 2 | I/O | 3V3 |
 | SPI | 2 | I/O | 3V3 |
 | I2S | 1 | I/O | 3V3 |
 | I2C | 1 | I/O | FT |
